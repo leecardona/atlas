@@ -10,4 +10,4 @@ I welcome and appreciate community contributions. If you have an idea or a quest
 ©2018 <a href="https://twitter.com/leecardona" target="_blank">Lee Cardona</a>
 
 # License
-The documentation is provided under [Apache License 2.0](https://github.com/leecardona/vscode-setup/blob/master/LICENSE). Contributions to this project are accepted under the same license.
+The documentation is provided under [Apache License 2.0](https://github.com/leecardona/atlas/blob/master/LICENSE). Contributions to this project are accepted under the same license.
